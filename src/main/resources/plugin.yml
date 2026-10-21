@@ -1,0 +1,15 @@
+name: FriendsPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+commands:
+  friendswine:
+    description: Gives the player Friends' Wine.
+    usage: /friendswine
+  friendsdoll:
+    description: Places a Friends Doll.
+    usage: /friendsdoll
+  friendsremote:
+    description: Toggles the Friends Doll's states.
+    usage: /friendsremote
